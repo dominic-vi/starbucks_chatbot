@@ -1,0 +1,12 @@
+# Ignore the vectorstore folder
+vectorstore/
+
+# Ignore the .chainlit folder
+.chainlit/
+
+# Ignore the __pycache__ folder
+__pycache__/
+
+public/
+
+evaluation/
