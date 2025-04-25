@@ -1,6 +1,10 @@
 # Ignore the vectorstore folder
 vectorstore/
+
+# Ignore chainlit's assets folder
 public/
+
+# Ignore model's evaluation files
 evaluation/
 
 # Ignore the .chainlit folder
